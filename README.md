@@ -42,6 +42,11 @@
 <hr/>
 <hr/>
 
+## 📫 Lets Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razibul-hasan/)
+<h3 align="left"></h3>
+
 <br/>
 
 <div align="center">
