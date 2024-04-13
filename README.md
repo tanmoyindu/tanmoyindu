@@ -40,11 +40,13 @@
 
 <br/>
 <hr/>
-
+<div align="center">
  <h2 align="center">📫 Lets Connect</h2>
+    <a href="https://www.linkedin.com/in/tanmoy-indu-r-b3764621b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<h3>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razibul-hasan/)</h3>
-<h3 align="center"></h3>
 
 <br/>
 
