@@ -40,11 +40,10 @@
 
 <br/>
 <hr/>
-<hr/>
 
  <h2 align="center">📫 Lets Connect</h2>
 
-<h3>Feel free to connect with me on</h3> [LinkedIn](https://www.linkedin.com/in/razibul-hasan/)
+<h3>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razibul-hasan/)</h3>
 <h3 align="center"></h3>
 
 <br/>
