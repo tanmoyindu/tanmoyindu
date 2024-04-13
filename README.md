@@ -42,7 +42,7 @@
 <hr/>
 <hr/>
 
-## 📫 Lets Connect
+ <h2 align="center">📫 Lets Connect</h2>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/razibul-hasan/)
 <h3 align="left"></h3>
