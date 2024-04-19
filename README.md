@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Dashboard project**
+ 🔭 I’m currently working on **Shopify**
  
  🌱 I’m currently learning **Figma, Spline - 3D**
 
