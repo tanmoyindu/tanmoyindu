@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Shopify project**
  
- 🌱 I’m currently learning **Figma, Spline - 3D**
+ 🌱 I’m currently learning **React.js**
 
 ⚡ I love designing and learning new technology
 
