@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Shopify project**
+ 🔭 I’m currently working on **React project**
  
  🌱 I’m currently learning **React.js**
 
