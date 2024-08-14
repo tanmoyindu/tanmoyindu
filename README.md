@@ -9,9 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React project**
- 
- 🌱 I’m currently learning **React.js**
+ 🔭 I’m currently working on **Html, Css, Js project**
 
 ⚡ I love designing and learning new technology
 
