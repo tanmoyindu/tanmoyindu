@@ -43,11 +43,10 @@
 
 ###
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python"/><br>
+## ⏩️ Tech stacks
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,aws,terraform,docker,kubernetes,github,githubactions" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,prometheus,grafana,mongodb,postgres" /><br>
 </div>
 
 <br/>
