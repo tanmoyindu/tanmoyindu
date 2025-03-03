@@ -54,7 +54,7 @@
 <hr/>
 <div align="center">
  <h2 align="center">📫 Lets Connect</h2>
-    <a href="www.linkedin.com/in/tanmoyindu" target="_blank">
+    <a href="https://www.linkedin.com/in/tanmoyindu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
